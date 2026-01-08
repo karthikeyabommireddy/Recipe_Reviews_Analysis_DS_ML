@@ -50,7 +50,8 @@ This project solves the problem using **NLP and Machine Learning**.
 
 - Text-based recipe review dataset  
 - Contains user feedback in natural language  
-- Used for NLP and ML modeling  
+- Used for NLP and ML modeling
+- Dataset : https://drive.google.com/file/d/1ivuHdIwUGtQAvS13SMjKusd_W3lB8jhK/view?usp=sharing
 
 ---
 
